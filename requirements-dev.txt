@@ -1,0 +1,2 @@
+autopep8>=2.3,<3
+pycodestyle>=2.12,<3

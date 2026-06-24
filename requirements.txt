@@ -1,0 +1,6 @@
+# Runtime dependencies
+PyMuPDF>=1.26.6,<1.27
+sentence-transformers>=3.0.1,<6
+chromadb>=1.0,<2
+rank-bm25==0.2.2
+chainlit>=2.11.1,<3

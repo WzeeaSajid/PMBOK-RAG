@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Configuration and local data
+.env
+.env.*
+chroma_db*/
+images/
+data/
+examples/*.pdf
+evaluation_results*.json
+*.lock.txt
+
+# Chainlit
+.files/
+.chainlit/translations/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
