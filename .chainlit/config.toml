@@ -1,0 +1,6 @@
+[UI]
+name = "PMBOK Guide RAG"
+description = "Ask about your locally indexed documents with verifiable source passages."
+
+[meta]
+generated_by = "2.11.1"
