@@ -1,0 +1,4 @@
+{"question":"What does project scope describe?","source_doc":"sample","unanswerable":false,"expected_sources":[{"source_doc":"sample","page_number":1}],"expected_answer_terms":["work","product"]}
+{"question":"How is the cost performance index calculated?","source_doc":"sample","unanswerable":false,"expected_sources":[{"source_doc":"sample","page_number":2}],"expected_answer_terms":["earned value","actual cost"]}
+{"question":"What information does a risk register record?","source_doc":"sample","unanswerable":false,"expected_sources":[{"source_doc":"sample","page_number":3}],"expected_answer_terms":["risks","owners","responses"]}
+{"question":"Who won the 2026 football world cup?","source_doc":"sample","unanswerable":true,"expected_sources":[]}
